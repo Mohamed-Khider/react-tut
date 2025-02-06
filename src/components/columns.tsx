@@ -13,15 +13,15 @@ export const COLUMNS =[
     },
     {
         Header: 'date_of_birth',
-        accessor: 'date_of_birth'
+        accessor: 'date_of_work'
     },
     {
-        Header: 'country'
+        Header: 'country',
         accessor: 'countary'
     },
     {
-        Header: 'phone number'
-        accessor: 'phone_number'
+        Header: 'phone number',
+        accessor: 'phone'
     }
 
 ]
